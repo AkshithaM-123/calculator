@@ -1,4 +1,5 @@
 Simple Calculator
+![image alt](https://github.com/AkshithaM-123/calculator/blob/dadfebc49afd2a0b3192bc37c93145a0da9beb4e/outputscreenshot1.jpg)
 A basic calculator built using HTML, CSS, and JavaScript. It performs the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The project focuses on clean, easy-to-understand code, responsive design, and user-friendly interface.
 
 Features
