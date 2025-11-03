@@ -56,7 +56,7 @@ text
 
 ## 📸 Preview
 
-(Place a screenshot or GIF demo of your calculator here)
+![alt img](https://github.com/AkshithaM-123/calculator/blob/dadfebc49afd2a0b3192bc37c93145a0da9beb4e/outputscreenshot2.jpg)
 
 ## 💬 Contribution
 
