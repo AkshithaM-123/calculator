@@ -30,15 +30,11 @@ cd calculator
 
 ## 📁 Project Structure
 
-calculator/
-│
-├── index.html # Main calculator layout
-
-├── style.css # Custom styles for UI
-
-├── script.js # JavaScript logic for operations
-
-└── README.md # Project documentation
+calculator
+ index.html # Main calculator layout
+ style.css # Custom styles for UI
+ script.js # JavaScript logic for operations
+ README.md # Project documentation
 
 ## 🧠 Learning Highlights
 
