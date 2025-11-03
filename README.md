@@ -23,11 +23,9 @@ This project demonstrates how basic web technologies can work together to create
 1. Clone this repository:
 git clone https://github.com/AkshithaM-123/calculator.git
 
-text
 2. Open the project folder:
 cd calculator
 
-text
 3. Launch the `index.html` file in your web browser.
 
 ## 📁 Project Structure
@@ -38,8 +36,6 @@ calculator/
 ├── style.css # Custom styles for UI
 ├── script.js # JavaScript logic for operations
 └── README.md # Project documentation
-
-text
 
 ## 🧠 Learning Highlights
 
