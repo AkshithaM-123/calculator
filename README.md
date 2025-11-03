@@ -21,7 +21,7 @@ This project demonstrates how basic web technologies can work together to create
 ## 🛠️ How to Run
 
 1. Clone this repository:
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/AkshithaM-123/calculator
 
 text
 2. Open the project folder:
