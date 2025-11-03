@@ -32,13 +32,13 @@ cd calculator
 
 calculator
 
- index.html # Main calculator layout
+├──index.html # Main calculator layout
  
- style.css # Custom styles for UI
+├──style.css # Custom styles for UI
  
- script.js # JavaScript logic for operations
+├──script.js # JavaScript logic for operations
  
- README.md # Project documentation
+├──README.md # Project documentation
 
 ## 🧠 Learning Highlights
 
